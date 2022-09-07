@@ -167,7 +167,7 @@ public abstract class GUI
         border(stack, cornerSlot, cornerSlot2, false);
     }
 
-    public void border(ItemStack stack)
+    public void border(ItemStack stack) // 123
     {
         border(stack, 0, size - 1);
     }
